@@ -9,12 +9,8 @@ Through this simple menu system, you'll control your character by choosing actio
 
 
 
-Github:
-[@Dub5991](https://www.github.com/Dub5991) 
 
-Email Directly:
-[Email Author](Snellingsd@icloud.com)
+[Git Hub](https://www.github.com/Dub5991) 
 
-Linkedin:
-[Dustin](www.linkedin.com/in/dustin-snellings-8385ba274)
+[Linkedin](www.linkedin.com/in/dustin-snellings-8385ba274)
  
